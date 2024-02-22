@@ -6,8 +6,11 @@ import java from '../assets/imagesPage/java.jpg'
 import c from '../assets/imagesPage/c.png'
 import americanas from '../assets/imagesPage/americanas.png'
 import java2 from '../assets/imagesPage/JAVA2.png'
+
 import videoJava2 from './../assets/imagesPage/videoJava2.mp4'
 import cpp from './../assets/imagesPage/c.mp4'
+import americanas2 from './../assets/imagesPage/americanas2.mp4'
+import videoJava1 from './../assets/imagesPage/videoJava2.mp4'
 
 function Back() {
     return(
@@ -31,6 +34,7 @@ function Back() {
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/Americanas"
                 linkPage="#"
+                videos={americanas2}
                 >
                 </Card1>
 
@@ -69,6 +73,7 @@ function Back() {
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/java"
                 linkPage="#"
+                videos={videoJava1}
                 >
                 </Card1>
 
