@@ -6,17 +6,38 @@ import java from '../assets/imagesPage/java.jpg'
 import c from '../assets/imagesPage/c.png'
 import americanas from '../assets/imagesPage/americanas.png'
 import java2 from '../assets/imagesPage/JAVA2.png'
+import reactnative011 from '../assets/imagesPage/reactNative01.png'
 
 import videoJava2 from './../assets/imagesPage/videoJava2.mp4'
 import cpp from './../assets/imagesPage/c.mp4'
 import americanas2 from './../assets/imagesPage/americanas2.mp4'
 import videoJava1 from './../assets/imagesPage/videoJava2.mp4'
+import reactnative01 from './../assets/imagesPage/reactNative01.mp4'
 
 function Back() {
     return(
         <>
             <main className="containerFrontBack">
                 <Navbar className="nav" />
+
+                <Card1
+                src={reactnative011}
+                titulo="Password Generator"
+                descricao="Aplicativo voltado para celular que gera senhas aleatórias e copia elas com um botão, com componentização em react native, e useStates. Tecnologias: React Native, NodeJS."
+                
+                className="cardProject"
+                espaco="espaco"
+                descricaoClassName="descricaoClassName"
+                divBtn="divBtn"
+                tituloClassName="tituloClassName"
+                btnEstilizacao="btnEstilizacao"
+                tamanhoImg="tamanhoImg"
+                linkProjeto="https://github.com/moisesdreckmann/reactNative01"
+                linkPage="#"
+                videos={reactnative01}
+                >
+                </Card1>
+
                 <Card1
                 src={americanas}
                 titulo="RÉPLICA SITE DA AMERICANAS EM PHP"
