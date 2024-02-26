@@ -7,18 +7,37 @@ import c from '../assets/imagesPage/c.png'
 import americanas from '../assets/imagesPage/americanas.png'
 import java2 from '../assets/imagesPage/JAVA2.png'
 import reactnative011 from '../assets/imagesPage/reactNative01.png'
+import reactnative022 from '../assets/imagesPage/reactNative02.png'
 
 import videoJava2 from './../assets/imagesPage/videoJava2.mp4'
 import cpp from './../assets/imagesPage/c.mp4'
 import americanas2 from './../assets/imagesPage/americanas2.mp4'
 import videoJava1 from './../assets/imagesPage/videoJava2.mp4'
 import reactnative01 from './../assets/imagesPage/reactNative01.mp4'
+import reactnative02 from './../assets/imagesPage/reactNative02.mp4'
 
 function Back() {
     return(
         <>
             <main className="containerFrontBack">
                 <Navbar className="nav" />
+
+                <Card1
+                src={reactnative022}
+                titulo="Form em React Native CLI"
+                descricao="Criado um projeto de formulário, aonde o usuário coloca as informações a respeito, e são capituradas para poder trabalhar com elas. Usado também para useState dentre inputs e botões. Tecnologias: React Native."
+                className="cardProject"
+                espaco="espaco"
+                descricaoClassName="descricaoClassName"
+                divBtn="divBtn"
+                tituloClassName="tituloClassName"
+                btnEstilizacao="btnEstilizacao"
+                tamanhoImg="tamanhoImg"
+                linkProjeto="https://github.com/moisesdreckmann/reactNative02/tree/main"
+                linkPage="#"
+                videos={reactnative02}
+                >
+                </Card1>
 
                 <Card1
                 src={reactnative011}
