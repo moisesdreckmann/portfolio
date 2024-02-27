@@ -141,7 +141,7 @@ function Back() {
                 <Card1
                 src={c}
                 titulo="PROJETO EM ESTRUTURA DE DADOS"
-                descricao="Simulação de um caixa de loja. Foi utilizado: criação de structs, duas listas duplamente encadeadas, e salvamento de dados em bloco de notas, agindo como um banco de dados. Além de outras funcionadades extras. Tecnologias: C Estrutura de Dados."
+                descricao="Simulação de um caixa de loja. Foi utilizado: criação de structs, duas listas duplamente encadeadas, e salvamento de dados em bloco de notas, agindo como um banco de dados. Além de outras funcionalidades extras. Tecnologias: C Estrutura de Dados."
                 
                 className="cardProject"
                 espaco="espaco"
