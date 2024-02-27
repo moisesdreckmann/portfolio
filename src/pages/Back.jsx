@@ -8,6 +8,7 @@ import americanas from '../assets/imagesPage/americanas.png'
 import java2 from '../assets/imagesPage/JAVA2.png'
 import reactnative011 from '../assets/imagesPage/reactNative01.png'
 import reactnative022 from '../assets/imagesPage/reactNative02.png'
+import reactnative044 from './../assets/imagesPage/reactNative04.png'
 
 import videoJava2 from './../assets/imagesPage/videoJava2.mp4'
 import cpp from './../assets/imagesPage/c.mp4'
@@ -15,12 +16,32 @@ import americanas2 from './../assets/imagesPage/americanas2.mp4'
 import videoJava1 from './../assets/imagesPage/videoJava2.mp4'
 import reactnative01 from './../assets/imagesPage/reactNative01.mp4'
 import reactnative02 from './../assets/imagesPage/reactNative02.mp4'
+import reactnative04 from './../assets/imagesPage/reactNative04.mp4'
 
 function Back() {
     return(
         <>
             <main className="containerFrontBack">
                 <Navbar className="nav" />
+
+                <Card1
+                src={reactnative044}
+                titulo="React Native Consumindo Objetos"
+                descricao="O projeto consiste na 'troca de tela' dentre as opções de
+                carros disponiveis na loja, onde os objetos javascript
+                trocam dinamicamente na tela. Tecnologias: React Native Javascript."
+                className="cardProject"
+                espaco="espaco"
+                descricaoClassName="descricaoClassName"
+                divBtn="divBtn"
+                tituloClassName="tituloClassName"
+                btnEstilizacao="btnEstilizacao"
+                tamanhoImg="tamanhoImg"
+                linkProjeto="https://github.com/moisesdreckmann/reactNative04"
+                linkPage="#"
+                videos={reactnative04}
+                >
+                </Card1>
 
                 <Card1
                 src={reactnative022}
