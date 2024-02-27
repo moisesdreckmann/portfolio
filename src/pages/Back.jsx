@@ -46,7 +46,7 @@ function Back() {
                 <Card1
                 src={reactnative022}
                 titulo="Form em React Native CLI"
-                descricao="Criado um projeto de formulário, onde o usuário coloca as informações a respeito, e são capituradas para poder trabalhar com elas. Usado também para useState dentre inputs e botões. Tecnologias: React Native."
+                descricao="Criado um projeto de formulário, onde o usuário coloca as informações a respeito, e são capturadas para poder trabalhar com elas. Usado também para useState dentre inputs e botões. Tecnologias: React Native."
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
