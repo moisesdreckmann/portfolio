@@ -82,9 +82,9 @@ function Back() {
                 src={americanas}
                 titulo="RÉPLICA SITE DA AMERICANAS EM PHP"
                 descricao="Código Reutilizavel com funções POO em PHP. 
-                Pode ser acessada uma página esclusiva para Notebooks no Menu. 
+                Pode ser acessada uma página exclusiva para Notebooks no Menu. 
                 Produtos recomendados, com PHP e limitedrows incluso. 
-                Alteração de senha. Envio de email apra confirmação e entrada no site. Senha criptografada no Banco sql. E muito mais disponivel em projeto no github. Tecnologias: PHP|PDO HTML CSS JWT Axios Google"
+                Alteração de senha. Envio de email para confirmação e entrada no site. Senha criptografada no Banco sql. E muito mais disponivel em projeto no github. Tecnologias: PHP|PDO HTML CSS JWT Axios Google"
                 
                 className="cardProject"
                 espaco="espaco"
