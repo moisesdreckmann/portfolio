@@ -25,7 +25,7 @@ import tecno18 from '../assets/imagesTecno/18.png'
 import tecno19 from '../assets/imagesTecno/19.png'
 import tecno20 from '../assets/imagesTecno/20.png'
 import tecno21 from '../assets/imagesTecno/21.jpg'
-import tecno22 from '../assets/imagesTecno/22.jpg'
+import tecno22 from '../assets/imagesTecno/22.png'
 
 function Home() {
     const [dadosUsuario, setDadosUsuario] = useState({})
