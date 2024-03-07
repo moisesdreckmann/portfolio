@@ -135,7 +135,7 @@ function Back() {
                 tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
-                linkProjeto="https://github.com/moisesdreckmann/javaAula2"
+                linkProjeto="#"
                 linkPage="#"
                 videos={videoJava2}
                 >
