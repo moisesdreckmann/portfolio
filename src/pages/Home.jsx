@@ -26,6 +26,8 @@ import tecno19 from '../assets/imagesTecno/19.png'
 import tecno20 from '../assets/imagesTecno/20.png'
 import tecno21 from '../assets/imagesTecno/21.jpg'
 import tecno22 from '../assets/imagesTecno/22.png'
+import tecno23 from '../assets/imagesTecno/23.svg'
+import tecno24 from '../assets/imagesTecno/24.svg'
 
 function Home() {
     const [dadosUsuario, setDadosUsuario] = useState({})
@@ -60,6 +62,7 @@ function Home() {
                             <CardTecnologia className="cardTecno" text="VITE" color={'#170d29'} img={tecno22}/>
                             <CardTecnologia className="cardTecno" text="JAVASCRIPT" color={'#170d29'} img={tecno2}/>
                             <CardTecnologia className="cardTecno" text="TYPESCRIPT" color={'#170d29'} img={tecno3}/>
+                            <CardTecnologia className="cardTecno" text="NPM" color={'#170d29'} img={tecno23}/>
                             <CardTecnologia className="cardTecno" text="BOOTSTRAP" color={'#170d29'} img={tecno4}/>
                             <CardTecnologia className="cardTecno" text="CSS 3" color={'#170d29'} img={tecno5}/>
                             <CardTecnologia className="cardTecno2" text="STYLED COMPONENTS" color={'#170d29'} img={tecno6}/>
@@ -79,6 +82,7 @@ function Home() {
                             <CardTecnologia className="cardTecno" text="C" color={'#170d29'} img={tecno16}/>
                             <CardTecnologia className="cardTecno" text="JAVA" color={'#170d29'} img={tecno17}/>
                             <CardTecnologia className="cardTecno" text="SPRINGBOOT" color={'#170d29'} img={tecno18}/>
+                            <CardTecnologia className="cardTecno" text="COMPOSER" color={'#170d29'} img={tecno24}/>
                         </div>
                         <p className="text color2">OUTROS</p>
                         <div className="containerCardTecnologia">
