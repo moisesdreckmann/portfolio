@@ -10,14 +10,30 @@ import apple from '../assets/imagesPage/apple.gif'
 import goblin from '../assets/imagesPage/goblin.gif'
 import jogo from '../assets/imagesPage/jogo.png'
 import jogosIfood from '../assets/imagesPage/jogosIfood.png'
-import github from '../assets/imagesPage/github.png'
 import temperaturas from '../assets/imagesPage/temperatura.png'
+import movies from '../assets/imagesPage/movies.png'
 
 function Front() {
     return(
         <>
             <main className="containerFrontBack">
                 <Navbar className="nav" />
+
+                <Card
+                src={movies}
+                titulo="CONSUMINDO TBMOVIES POR AXIOS/REACT"
+                descricao="Projeto feito com react, javascript utilizando axios para consumo de API. Utilização: useState e useEffect, carousel com bootstrap, rotas com react router dom, componentização, consumo de api por axios, e muito mais. Tecnologias: React Javascript Axios Bootstrap."
+                className="cardProject"
+                espaco="espaco"
+                descricaoClassName="descricaoClassName"
+                divBtn="divBtn"
+                tituloClassName="tituloClassName"
+                btnEstilizacao="btnEstilizacao"
+                tamanhoImg="tamanhoImg"
+                linkProjeto="https://github.com/moisesdreckmann/MOVIES"
+                linkPage="https://moisesdreckmann.github.io/MOVIES/"
+                >
+                </Card>
 
                 <Card
                 src={temperaturas}
@@ -106,23 +122,6 @@ function Front() {
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/jogosDio"
                 linkPage="https://moisesdreckmann.github.io/jogosDio/"
-                >
-                </Card>
-
-                <Card
-                src={github}
-                titulo="CONSUMINDO GITHUB POR AXIOS"
-                descricao="Projeto feito com react, javascript utilizando axios para consumo de API. Tecnologias: React Javascript."
-                
-                className="cardProject"
-                espaco="espaco"
-                descricaoClassName="descricaoClassName"
-                divBtn="divBtn"
-                tituloClassName="tituloClassName"
-                btnEstilizacao="btnEstilizacao"
-                tamanhoImg="tamanhoImg"
-                linkProjeto="https://github.com/moisesdreckmann/apiGit"
-                linkPage="https://moisesdreckmann.github.io/apiGit/"
                 >
                 </Card>
 
