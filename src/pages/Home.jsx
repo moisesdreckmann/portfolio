@@ -28,6 +28,7 @@ import tecno21 from '../assets/imagesTecno/21.jpg'
 import tecno22 from '../assets/imagesTecno/22.png'
 import tecno23 from '../assets/imagesTecno/23.svg'
 import tecno24 from '../assets/imagesTecno/24.svg'
+import tecno25 from '../assets/imagesTecno/25.png'
 
 function Home() {
     const [dadosUsuario, setDadosUsuario] = useState({})
@@ -70,6 +71,7 @@ function Home() {
                             <CardTecnologia className="cardTecno" text="HTML 5" color={'#170d29'} img={tecno8}/>
                             <CardTecnologia className="cardTecno" text="AXIOS" color={'#170d29'} img={tecno9}/>
                             <CardTecnologia className="cardTecno" text="JWT" color={'#170d29'} img={tecno10}/>
+                            <CardTecnologia className="cardTecno" text="NEXT" color={'#170d29'} img={tecno25}/>
                             
                         </div>
                         <p className="text color2">BACK-END</p>
