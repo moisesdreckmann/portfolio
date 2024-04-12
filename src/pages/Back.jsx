@@ -30,7 +30,9 @@ function Back() {
                 <Card1
                 src={reactnative033}
                 titulo="React Native Navigation"
-                descricao="O projeto consiste em demonstrar toda a parte do navigation, com o button tabs e também com o drawer navigation. Também utilizado ScrollView. Tecnologias: React Native."
+                descricao="
+                Descrição: 
+                O projeto consiste em demonstrar toda a parte do navigation, com o button tabs e também com o drawer navigation. Também utilizado ScrollView. Tecnologias: React Native."
                 
                 className="cardProject"
                 espaco="espaco"
@@ -48,7 +50,9 @@ function Back() {
                 <Card1
                 src={reactnative044}
                 titulo="React Native Consumindo Objetos"
-                descricao="O projeto consiste na 'troca de tela' dentre as opções de
+                descricao="
+                Descrição: 
+                O projeto consiste na 'troca de tela' dentre as opções de
                 carros disponiveis na loja, onde os objetos javascript
                 trocam dinamicamente na tela. Tecnologias: React Native Javascript."
                 className="cardProject"
@@ -67,7 +71,9 @@ function Back() {
                 <Card1
                 src={reactnative022}
                 titulo="Form em React Native CLI"
-                descricao="Criado um projeto de formulário, onde o usuário coloca as informações a respeito, e são capturadas para poder trabalhar com elas. Usado também para useState dentre inputs e botões. Tecnologias: React Native."
+                descricao="
+                Descrição: 
+                Criado um projeto de formulário, onde o usuário coloca as informações a respeito, e são capturadas para poder trabalhar com elas. Usado também para useState dentre inputs e botões. Tecnologias: React Native."
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
@@ -84,7 +90,9 @@ function Back() {
                 <Card1
                 src={reactnative011}
                 titulo="Password Generator"
-                descricao="Aplicativo voltado para celular que gera senhas aleatórias e copia elas com um botão, com componentização em react native, e useStates. Tecnologias: React Native, NodeJS."
+                descricao="
+                Descrição: 
+                Aplicativo voltado para celular que gera senhas aleatórias e copia elas com um botão, com componentização em react native, e useStates. Tecnologias: React Native, NodeJS."
                 
                 className="cardProject"
                 espaco="espaco"
@@ -102,7 +110,9 @@ function Back() {
                 <Card1
                 src={americanas}
                 titulo="RÉPLICA SITE DA AMERICANAS EM PHP"
-                descricao="Código Reutilizavel com funções POO em PHP. 
+                descricao="
+                Descrição: 
+                Código Reutilizavel com funções POO em PHP. 
                 Pode ser acessada uma página exclusiva para Notebooks no Menu. 
                 Produtos recomendados, com PHP e limitedrows incluso. 
                 Alteração de senha. Envio de email para confirmação e entrada no site. Senha criptografada no Banco sql. E muito mais disponivel em projeto no github. Tecnologias: PHP|PDO HTML CSS JWT Axios Google"
@@ -123,7 +133,9 @@ function Back() {
                 <Card1
                 src={java2}
                 titulo="BIBLIOTECA EM JAVA"
-                descricao="É um sistema de software
+                descricao="
+                Descrição: 
+                É um sistema de software
                 que automatiza as tarefas de gerenciamento de uma biblioteca. Ele inclui recursos para o cadastro
                 de usuários, empréstimo de exemplares, devolução de exemplares e listagens (pesquisa) de alunos,
                 empréstimos e exemplares. A tecnologia da implementação é java com spring boot como framework. Tecnologias: Java SpringBoot Maven"
@@ -144,7 +156,9 @@ function Back() {
                 <Card1
                 src={java}
                 titulo="JAVA"
-                descricao="Aulas de JAVA proporcionadas pela faculdade IFSUL(Instituto Federal Sul-Rio-Grandense). Herança, Polimorfismo, Associação entre classes, Exceções, Collections, Maven, Spring boot, Api, Crud, Api Rest. Tecnologias: Java SpringBoot"
+                descricao="
+                Descrição: 
+                Aulas de JAVA proporcionadas pela faculdade IFSUL(Instituto Federal Sul-Rio-Grandense). Herança, Polimorfismo, Associação entre classes, Exceções, Collections, Maven, Spring boot, Api, Crud, Api Rest. Tecnologias: Java SpringBoot"
                 
                 className="cardProject"
                 espaco="espaco"
@@ -162,7 +176,9 @@ function Back() {
                 <Card1
                 src={c}
                 titulo="PROJETO EM ESTRUTURA DE DADOS"
-                descricao="Simulação de um caixa de loja. Foi utilizado: criação de structs, duas listas duplamente encadeadas, e salvamento de dados em bloco de notas, agindo como um banco de dados. Além de outras funcionalidades extras. Tecnologias: C Estrutura de Dados."
+                descricao="
+                Descrição: 
+                Simulação de um caixa de loja. Foi utilizado: criação de structs, duas listas duplamente encadeadas, e salvamento de dados em bloco de notas, agindo como um banco de dados. Além de outras funcionalidades extras. Tecnologias: C Estrutura de Dados."
                 
                 className="cardProject"
                 espaco="espaco"

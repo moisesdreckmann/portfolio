@@ -22,7 +22,9 @@ function Front() {
                 <Card
                 src={movies}
                 titulo="CONSUMINDO TBMOVIES POR AXIOS/REACT"
-                descricao="Projeto feito com react, javascript utilizando axios para consumo de API. Utilização: useState e useEffect, carousel com bootstrap, rotas com react router dom, componentização, consumo de api por axios, e muito mais. Tecnologias: React Javascript Axios Bootstrap."
+                descricao="
+                Descrição: 
+                Projeto feito com react, javascript utilizando axios para consumo de API. Utilização: useState e useEffect, carousel com bootstrap, rotas com react router dom, componentização, consumo de api por axios, e muito mais. Tecnologias: React Javascript Axios Bootstrap."
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
@@ -38,7 +40,9 @@ function Front() {
                 <Card
                 src={temperaturas}
                 titulo="PROJETO SENSOR TEMPERATURA REACT"
-                descricao="Criação de uma página react, para o projeto sensor de temperatura da faculdade IFSUL, explorando a criação de varias rotas em varias páginas, useStates, Login, ContextAPI, Busca de usuarios, validação de usuarios com YUP e muito mais. Tecnologias: React, YUP, React-Hook-Forms, React-Calendar, ContextAPI."
+                descricao="
+                Descrição: 
+                Criação de uma página react, para o projeto sensor de temperatura da faculdade IFSUL, explorando a criação de varias rotas em varias páginas, useStates, Login, ContextAPI, Busca de usuarios, validação de usuarios com YUP e muito mais. Tecnologias: React, YUP, React-Hook-Forms, React-Calendar, ContextAPI."
                 
                 className="cardProject"
                 espaco="espaco"
@@ -55,7 +59,9 @@ function Front() {
                 <Card
                 src={jogo}
                 titulo="JOGO DESENVOLVIDO COM VITE E JAVASCRIPT"
-                descricao="Criação de objetos, 
+                descricao="
+                Descrição: 
+                Criação de objetos, 
                 Modularização com Vite, 
                 Atributos de gaming, como atirar, colisões, 
                 Manipulação de audio, 
@@ -76,7 +82,9 @@ function Front() {
                 <Card
                 src={formjs}
                 titulo="FORMULARIO EM REACT"
-                descricao="Formulário desenvolvido em react, com utilização do react-hook-form
+                descricao="
+                Descrição: 
+                Formulário desenvolvido em react, com utilização do react-hook-form
                 e yup para validação de campos. Tecnologias: React React-Hook-Forms Javascript Vite YUP"
                 
                 className="cardProject"
@@ -94,7 +102,9 @@ function Front() {
                 <Card
                 src={calculadora}
                 titulo="CALCULADORA FUNCIONAL EM REACT"
-                descricao="Realizada com react e vite. Projeto voltado para praticar props, useState para alterar o estado dos componentes, componentização. Tecnologias: React Javascript"
+                descricao="
+                Descrição: 
+                Realizada com react e vite. Projeto voltado para praticar props, useState para alterar o estado dos componentes, componentização. Tecnologias: React Javascript"
                 
                 className="cardProject"
                 espaco="espaco"
@@ -111,7 +121,9 @@ function Front() {
                 <Card
                 src={jogosIfood}
                 titulo="MINI JOGOS DESENVOLVIDOS COM JAVASCRIPT"
-                descricao="4 jogos. Jogo da memoria, pegar circulo, piano, e pedra papel tesoura. Orientação a prototipo, Manipulação de listas, Manipulação de DOM, Utilização do Vite para organização do projeto. Tecnologias: Vite Javascript"
+                descricao="
+                Descrição: 
+                4 jogos. Jogo da memoria, pegar circulo, piano, e pedra papel tesoura. Orientação a prototipo, Manipulação de listas, Manipulação de DOM, Utilização do Vite para organização do projeto. Tecnologias: Vite Javascript"
                 
                 className="cardProject"
                 espaco="espaco"
@@ -128,7 +140,9 @@ function Front() {
                 <Card
                 src={chocolateria}
                 titulo="PROJETO CHOCOLATERIA"
-                descricao="Site voltado a venda de chocolates. Utilizado: Efeito parallax, Flexbox, Media queries, responsividade, Menu fixed, Menu interativo para dispositivos moveis, SEO, Acessibilidade, Arquitetura BEM. Tecnologias: HTML CSS."
+                descricao="
+                Descrição: 
+                Site voltado a venda de chocolates. Utilizado: Efeito parallax, Flexbox, Media queries, responsividade, Menu fixed, Menu interativo para dispositivos moveis, SEO, Acessibilidade, Arquitetura BEM. Tecnologias: HTML CSS."
                 
                 className="cardProject"
                 espaco="espaco"
@@ -145,7 +159,9 @@ function Front() {
                 <Card
                 src={spacezone}
                 titulo="PROJETO SPACEZONE"
-                descricao=" Utilizado: Flexbox, Animation, Efeitos em imagens através de pseudo-elements, Select personalizado Dark theme, Responsividade, Boa performance, Acessibilidade, SEO, Funções pequenas de JS, Arquitetura BEM e Carousel. Tecnologias: HTML CSS Bootstrap."
+                descricao=" 
+                Descrição: 
+                Utilizado: Flexbox, Animation, Efeitos em imagens através de pseudo-elements, Select personalizado Dark theme, Responsividade, Boa performance, Acessibilidade, SEO, Funções pequenas de JS, Arquitetura BEM e Carousel. Tecnologias: HTML CSS Bootstrap."
 
                 className="cardProject"
                 espaco="espaco"
@@ -162,7 +178,9 @@ function Front() {
                 <Card
                 src={apple}
                 titulo="PROJETO APPLE"
-                descricao="Animação de cores com logo Apple
+                descricao="
+                Descrição: 
+                Animação de cores com logo Apple
 
                 Animation. Otimização de imagem para boa performance. SEO. Filters Effect. 
                 Box-Shadow personalizado. Tecnologias: HTML CSS."
@@ -182,7 +200,9 @@ function Front() {
                 <Card
                 src={goblin}
                 titulo="ANIMATION CSS/JS"
-                descricao="Animações úteis: Login de formulario, loading, eskeleton para carregamento de imagens navBar interativo, e um goblin em constante movimento utilizando sprite e JS (setInterval) para controle. Tecnologias: CSS Javascript."
+                descricao="
+                Descrição: 
+                Animações úteis: Login de formulario, loading, eskeleton para carregamento de imagens navBar interativo, e um goblin em constante movimento utilizando sprite e JS (setInterval) para controle. Tecnologias: CSS Javascript."
                 
                 className="cardProject"
                 espaco="espaco"
