@@ -21,15 +21,14 @@ function Front() {
 
                 <Card
                 src={movies}
-                titulo="CONSUMINDO TBMOVIES POR AXIOS/REACT"
                 descricao="
                 Descrição: 
+                Consumo de API TbMovies por axios/react.
                 Projeto feito com react, javascript utilizando axios para consumo de API. Utilização: useState e useEffect, carousel com bootstrap, rotas com react router dom, componentização, consumo de api por axios, e muito mais."
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/MOVIES"
@@ -41,16 +40,15 @@ function Front() {
 
                 <Card
                 src={temperaturas}
-                titulo="PROJETO SENSOR TEMPERATURA REACT"
                 descricao="
                 Descrição: 
+                Projeto Sensor de Temperatura em react.
                 Criação de uma página react, para o projeto sensor de temperatura da faculdade IFSUL, explorando a criação de varias rotas em varias páginas, useStates, Login, ContextAPI, Busca de usuarios, validação de usuarios com YUP e muito mais."
                 
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/projetoIfsulTemperatura"
@@ -62,9 +60,9 @@ function Front() {
 
                 <Card
                 src={jogo}
-                titulo="JOGO DESENVOLVIDO COM VITE E JAVASCRIPT"
                 descricao="
                 Descrição: 
+                Desenvolvimento de jogo. 
                 Criação de objetos, 
                 Modularização com Vite, 
                 Atributos de gaming, como atirar, colisões, 
@@ -75,7 +73,6 @@ function Front() {
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/jogoNave"
@@ -87,7 +84,6 @@ function Front() {
 
                 <Card
                 src={formjs}
-                titulo="FORMULARIO EM REACT"
                 descricao="
                 Descrição: 
                 Formulário desenvolvido em react, com utilização do react-hook-form
@@ -97,7 +93,6 @@ function Front() {
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/formulariojs"
@@ -109,16 +104,15 @@ function Front() {
 
                 <Card
                 src={calculadora}
-                titulo="CALCULADORA FUNCIONAL EM REACT"
                 descricao="
                 Descrição: 
+                Calculadora funcional em react. 
                 Realizada com react e vite. Projeto voltado para praticar props, useState para alterar o estado dos componentes, componentização."
                 
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/calculadoraReact"
@@ -130,16 +124,14 @@ function Front() {
 
                 <Card
                 src={jogosIfood}
-                titulo="MINI JOGOS DESENVOLVIDOS COM JAVASCRIPT"
                 descricao="
                 Descrição: 
-                4 jogos. Jogo da memoria, pegar circulo, piano, e pedra papel tesoura. Orientação a prototipo, Manipulação de listas, Manipulação de DOM, Utilização do Vite para organização do projeto."
+                4 mini jogos feitos com javascript. Jogo da memoria, pegar circulo, piano, e pedra papel tesoura. Orientação a prototipo, Manipulação de listas, Manipulação de DOM, Utilização do Vite para organização do projeto."
                 
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/jogosDio"
@@ -151,7 +143,6 @@ function Front() {
 
                 <Card
                 src={chocolateria}
-                titulo="PROJETO CHOCOLATERIA"
                 descricao="
                 Descrição: 
                 Site voltado a venda de chocolates. Utilizado: Efeito parallax, Flexbox, Media queries, responsividade, Menu fixed, Menu interativo para dispositivos moveis, SEO, Acessibilidade, Arquitetura BEM."
@@ -160,7 +151,6 @@ function Front() {
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/project-parallax-chocolateria"
@@ -172,7 +162,6 @@ function Front() {
 
                 <Card
                 src={spacezone}
-                titulo="PROJETO SPACEZONE"
                 descricao=" 
                 Descrição: 
                 Utilizado: Flexbox, Animation, Efeitos em imagens através de pseudo-elements, Select personalizado Dark theme, Responsividade, Boa performance, Acessibilidade, SEO, Funções pequenas de JS, e Arquitetura BEM. "
@@ -181,7 +170,6 @@ function Front() {
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/project-spacezone"
@@ -193,7 +181,6 @@ function Front() {
 
                 <Card
                 src={apple}
-                titulo="PROJETO APPLE"
                 descricao="
                 Descrição: 
                 Animação de cores com logo Apple
@@ -205,7 +192,6 @@ function Front() {
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/project-apple"
@@ -217,7 +203,6 @@ function Front() {
 
                 <Card
                 src={goblin}
-                titulo="ANIMATION CSS/JS"
                 descricao="
                 Descrição: 
                 Animações úteis: Login de formulario, loading, eskeleton para carregamento de imagens navBar interativo, e um goblin em constante movimento utilizando sprite e JS (setInterval) para controle."
@@ -226,7 +211,6 @@ function Front() {
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/animation01"

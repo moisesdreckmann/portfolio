@@ -29,7 +29,6 @@ function Back() {
 
                 <Card1
                 src={reactnative033}
-                titulo="React Native Navigation"
                 descricao="
                 Descrição: 
                 O projeto consiste em demonstrar toda a parte do navigation, com o button tabs e também com o drawer navigation. Também utilizado ScrollView."
@@ -38,7 +37,6 @@ function Back() {
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/reactNative03"
@@ -51,9 +49,9 @@ function Back() {
 
                 <Card1
                 src={reactnative044}
-                titulo="React Native Consumindo Objetos"
                 descricao="
                 Descrição: 
+                React Native Consumindo Objetos. 
                 O projeto consiste na 'troca de tela' dentre as opções de
                 carros disponiveis na loja, onde os objetos javascript
                 trocam dinamicamente na tela."
@@ -61,7 +59,6 @@ function Back() {
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/reactNative04"
@@ -74,15 +71,14 @@ function Back() {
 
                 <Card1
                 src={reactnative022}
-                titulo="Form em React Native CLI"
                 descricao="
                 Descrição: 
+                Form em React Native CLI. 
                 Criado um projeto de formulário, onde o usuário coloca as informações a respeito, e são capturadas para poder trabalhar com elas. Usado também para useState dentre inputs e botões."
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/reactNative02/tree/main"
@@ -95,16 +91,15 @@ function Back() {
 
                 <Card1
                 src={reactnative011}
-                titulo="Password Generator"
                 descricao="
                 Descrição: 
+                Password Generator. 
                 Aplicativo voltado para celular que gera senhas aleatórias e copia elas com um botão, com componentização em react native, e useStates."
                 
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/reactNative01"
@@ -117,9 +112,9 @@ function Back() {
 
                 <Card1
                 src={americanas}
-                titulo="RÉPLICA SITE DA AMERICANAS EM PHP"
                 descricao="
                 Descrição: 
+                RÉPLICA SITE DA AMERICANAS EM PHP. 
                 Código Reutilizavel com funções POO em PHP. 
                 Pode ser acessada uma página exclusiva para Notebooks no Menu. 
                 Produtos recomendados, com PHP e limitedrows incluso. 
@@ -129,7 +124,6 @@ function Back() {
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/Americanas"
@@ -142,7 +136,6 @@ function Back() {
 
                 <Card1
                 src={java2}
-                titulo="BIBLIOTECA EM JAVA"
                 descricao="
                 Descrição: 
                 É um sistema de software
@@ -154,7 +147,6 @@ function Back() {
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="#"
@@ -167,7 +159,6 @@ function Back() {
 
                 <Card1
                 src={java}
-                titulo="JAVA"
                 descricao="
                 Descrição: 
                 Aulas de JAVA proporcionadas pela faculdade IFSUL(Instituto Federal Sul-Rio-Grandense). Herança, Polimorfismo, Associação entre classes, Exceções, Collections, Maven, Spring boot, Api, Crud, Api Rest."
@@ -176,7 +167,6 @@ function Back() {
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/java"
@@ -189,7 +179,6 @@ function Back() {
 
                 <Card1
                 src={c}
-                titulo="PROJETO EM ESTRUTURA DE DADOS"
                 descricao="
                 Descrição: 
                 Simulação de um caixa de loja. Foi utilizado: criação de structs, duas listas duplamente encadeadas, e salvamento de dados em bloco de notas, agindo como um banco de dados. Além de outras funcionalidades extras."
@@ -198,7 +187,6 @@ function Back() {
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
                 divBtn="divBtn"
-                tituloClassName="tituloClassName"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/projectCpp"

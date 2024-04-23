@@ -1,7 +1,7 @@
 import  { useState, useEffect } from "react";
 import Modal from "./Modal";
 
-function Card1({ titulo, descricao, src, className, tecnoParagrafo, tecnologias,tituloClassName, espaco, btnEstilizacao, divBtn, linkProjeto, linkPage, tamanhoImg, descricaoClassName, videos }) {
+function Card1({ descricao, src, className, tecnoParagrafo, tecnologias, espaco, btnEstilizacao, divBtn, linkProjeto, linkPage, tamanhoImg, descricaoClassName, videos }) {
     const [isVisible, setIsVisible] = useState(false);
     const [isWebPage, setIsWebPage] = useState(false);
     const [isModalOpen, setIsModalOpen] = useState(false);
@@ -30,9 +30,8 @@ function Card1({ titulo, descricao, src, className, tecnoParagrafo, tecnologias,
         <section className={`${className} ${isVisible ? 'visible' : 'hidden'}`}>
             <img src={src} alt="imagem do projeto" className={tamanhoImg} />
             <div className={espaco}>
-                <p className={tituloClassName}>{titulo}</p>
-                <p className={descricaoClassName}>{descricao}</p>
                 <p className={tecnoParagrafo}>{tecnologias}</p>
+                <p className={descricaoClassName}>{descricao}</p>
                 <div className={divBtn}>
                     <button className={btnEstilizacao}><a href={linkProjeto} target="_blank" rel="noreferrer">CÓDIGO</a></button>
                     <button className={btnEstilizacao} onClick={openModal}>{isWebPage ? 'PAGE' : 'VÍDEO'}</button>

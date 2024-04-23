@@ -292,13 +292,6 @@ nav a:hover {
   border-width: 8px; 
 }
 
-.tituloClassName {
-  font-weight: bold;
-  text-align: center;
-  margin-block: 5px;
-  font-size: 1.1em;
-}
-
 .espaco {
   padding: 5px;
   width: 100%;
@@ -353,10 +346,6 @@ nav a:hover {
   .tamanhoImg {
     width: 80%;
     height: 100%;
-  }
-
-  .tituloClassName {
-    font-size: 0.9em;
   }
 
   .descricaoClassName {
@@ -540,4 +529,6 @@ h2 {
   border-radius: 4px;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.16);
   padding-inline: 20px;
+  padding-block: 5px;
+  font-size: 14px;
 }
