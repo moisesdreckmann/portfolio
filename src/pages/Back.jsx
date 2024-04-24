@@ -31,7 +31,12 @@ function Back() {
                 src={reactnative033}
                 descricao="
                 Descrição: 
-                O projeto consiste em demonstrar toda a parte do navigation, com o button tabs e também com o drawer navigation. Também utilizado ScrollView."
+                Este projeto em React Native CLI demonstra a utilização completa 
+                de navegação, incluindo o uso de button tabs e drawer navigation.
+                Além disso, foi utilizado ScrollView para proporcionar uma
+                experiência de rolagem suave. O aplicativo permite a navegação 
+                dinâmica entre telas, proporcionando uma experiência interativa 
+                e responsiva para o usuário."
                 
                 className="cardProject"
                 espaco="espaco"
@@ -51,10 +56,11 @@ function Back() {
                 src={reactnative044}
                 descricao="
                 Descrição: 
-                React Native Consumindo Objetos. 
-                O projeto consiste na 'troca de tela' dentre as opções de
-                carros disponiveis na loja, onde os objetos javascript
-                trocam dinamicamente na tela."
+                Este projeto em React Native CLI consiste na troca dinâmica de telas 
+                entre as opções de carros disponíveis na loja, onde os objetos JavaScript 
+                são consumidos e trocam dinamicamente na tela. O aplicativo oferece uma 
+                experiência interativa ao permitir que o usuário explore diferentes opções 
+                de carros."
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
@@ -73,8 +79,11 @@ function Back() {
                 src={reactnative022}
                 descricao="
                 Descrição: 
-                Form em React Native CLI. 
-                Criado um projeto de formulário, onde o usuário coloca as informações a respeito, e são capturadas para poder trabalhar com elas. Usado também para useState dentre inputs e botões."
+                Este é um projeto de formulário desenvolvido utilizando React 
+                Native CLI, no qual os usuários podem inserir informações e as
+                mesmas são capturadas para posterior manipulação. 
+                O projeto faz uso do useState para gerenciar os inputs e botões, 
+                oferecendo uma experiência interativa e responsiva."
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
@@ -94,7 +103,11 @@ function Back() {
                 descricao="
                 Descrição: 
                 Password Generator. 
-                Aplicativo voltado para celular que gera senhas aleatórias e copia elas com um botão, com componentização em react native, e useStates."
+                Este é um gerador de senhas, um aplicativo voltado para celular, 
+                desenvolvido utilizando React Native. No projeto, foram aplicadas 
+                a componentização e o uso de useState para gerar senhas aleatórias 
+                e copiá-las com um único clique. O aplicativo oferece uma solução 
+                simples e eficaz para a geração de senhas seguras."
                 
                 className="cardProject"
                 espaco="espaco"
@@ -118,7 +131,9 @@ function Back() {
                 Código Reutilizavel com funções POO em PHP. 
                 Pode ser acessada uma página exclusiva para Notebooks no Menu. 
                 Produtos recomendados, com PHP e limitedrows incluso. 
-                Alteração de senha. Envio de email para confirmação e entrada no site. Senha criptografada no Banco sql. E muito mais disponivel em projeto no github."
+                Alteração de senha. Envio de email para confirmação e entrada no site. 
+                Senha criptografada no Banco sql. E muito mais disponivel em projeto no 
+                github."
                 
                 className="cardProject"
                 espaco="espaco"
@@ -161,7 +176,9 @@ function Back() {
                 src={java}
                 descricao="
                 Descrição: 
-                Aulas de JAVA proporcionadas pela faculdade IFSUL(Instituto Federal Sul-Rio-Grandense). Herança, Polimorfismo, Associação entre classes, Exceções, Collections, Maven, Spring boot, Api, Crud, Api Rest."
+                Aulas de JAVA proporcionadas pela faculdade IFSUL(Instituto Federal 
+                    Sul-Rio-Grandense). Herança, Polimorfismo, Associação entre classes, 
+                    Exceções, Collections, Maven, Spring boot, Api, Crud, Api Rest."
                 
                 className="cardProject"
                 espaco="espaco"
@@ -181,8 +198,11 @@ function Back() {
                 src={c}
                 descricao="
                 Descrição: 
-                Simulação de um caixa de loja. Foi utilizado: criação de structs, duas listas duplamente encadeadas, e salvamento de dados em bloco de notas, agindo como um banco de dados. Além de outras funcionalidades extras."
-                
+                Este é um simulador de caixa de loja, desenvolvido utilizando a 
+                linguagem de programação C. No projeto, foram empregadas a criação
+                de structs, duas listas duplamente encadeadas e o armazenamento 
+                de dados em um arquivo de texto, funcionando como um banco de 
+                dados simplificado. "
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"

@@ -23,8 +23,13 @@ function Front() {
                 src={movies}
                 descricao="
                 Descrição: 
-                Consumo de API TbMovies por axios/react.
-                Projeto feito com react, javascript utilizando axios para consumo de API. Utilização: useState e useEffect, carousel com bootstrap, rotas com react router dom, componentização, consumo de api por axios, e muito mais."
+                Projeto desenvolvido em React, utilizando JavaScript e Axios 
+                para consumir a API TbMovies. O projeto utiliza useState e 
+                useEffect, um carousel implementado com Bootstrap, rotas com 
+                React Router DOM, componentização, além de outras funcionalidades.
+                Esta aplicação permite ao usuário explorar uma vasta gama de 
+                informações sobre filmes, proporcionando uma experiência 
+                interativa e dinâmica."
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
@@ -42,9 +47,13 @@ function Front() {
                 src={temperaturas}
                 descricao="
                 Descrição: 
-                Projeto Sensor de Temperatura em react.
-                Criação de uma página react, para o projeto sensor de temperatura da faculdade IFSUL, explorando a criação de varias rotas em varias páginas, useStates, Login, ContextAPI, Busca de usuarios, validação de usuarios com YUP e muito mais."
-                
+                Desenvolvimento de uma página React para o projeto Sensor de Temperatura da 
+                Faculdade IFSUL, explorando a criação de várias rotas, 
+                useState, login, ContextAPI para estado global, 
+                busca de usuários, React Hook Form, Yup, 
+                useEffect, 
+                uso de axios para realizar solicitações HTTP à API, e a  
+                criação de componentes reutilizáveis para manter um código limpo e modular"
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
@@ -62,13 +71,13 @@ function Front() {
                 src={jogo}
                 descricao="
                 Descrição: 
-                Desenvolvimento de jogo. 
-                Criação de objetos, 
-                Modularização com Vite, 
-                Atributos de gaming, como atirar, colisões, 
-                Manipulação de audio, 
-                Deploy no netlify."
-                
+                Desenvolvimento de um jogo utilizando Vite, com a criação de 
+                objetos, modularização, e atributos de gaming, como atirar 
+                e colisões. Além disso, o projeto inclui a manipulação de 
+                áudio e deploy no Netlify. Este jogo oferece uma experiência 
+                envolvente, explorando diversas mecânicas de jogo e 
+                proporcionando entretenimento e diversão para os usuários.
+                "
                 className="cardProject"
                 espaco="espaco"
                 descricaoClassName="descricaoClassName"
@@ -86,8 +95,11 @@ function Front() {
                 src={formjs}
                 descricao="
                 Descrição: 
-                Formulário desenvolvido em react, com utilização do react-hook-form
-                e yup para validação de campos."
+                Desenvolvimento de um formulário em React, utilizando React 
+                Hook Form e Yup para validação de campos. Este projeto 
+                oferece uma experiência interativa e responsiva, 
+                garantindo que os dados inseridos pelos usuários sejam 
+                válidos e seguros."
                 
                 className="cardProject"
                 espaco="espaco"
@@ -106,8 +118,11 @@ function Front() {
                 src={calculadora}
                 descricao="
                 Descrição: 
-                Calculadora funcional em react. 
-                Realizada com react e vite. Projeto voltado para praticar props, useState para alterar o estado dos componentes, componentização."
+                Desenvolvimento de uma calculadora funcional em React, 
+                utilizando Vite. Este projeto é voltado para praticar props, 
+                useState para alterar o estado dos componentes e componentização. 
+                Proporciona uma experiência interativa e responsiva, permitindo 
+                que os usuários realizem cálculos de forma simples e eficaz."
                 
                 className="cardProject"
                 espaco="espaco"
@@ -126,7 +141,11 @@ function Front() {
                 src={jogosIfood}
                 descricao="
                 Descrição: 
-                4 mini jogos feitos com javascript. Jogo da memoria, pegar circulo, piano, e pedra papel tesoura. Orientação a prototipo, Manipulação de listas, Manipulação de DOM, Utilização do Vite para organização do projeto."
+                Desenvolvimento de 4 mini jogos utilizando JavaScript: 
+                Jogo da memória, Pegar Círculo, Piano e Pedra, Papel, 
+                Tesoura. Este projeto foi orientado a protótipo, com 
+                manipulação de listas, manipulação de DOM e utilização 
+                do Vite para organização do projeto. "
                 
                 className="cardProject"
                 espaco="espaco"
@@ -145,7 +164,12 @@ function Front() {
                 src={chocolateria}
                 descricao="
                 Descrição: 
-                Site voltado a venda de chocolates. Utilizado: Efeito parallax, Flexbox, Media queries, responsividade, Menu fixed, Menu interativo para dispositivos moveis, SEO, Acessibilidade, Arquitetura BEM."
+                Desenvolvimento de um site voltado para a venda de chocolates, 
+                utilizando efeito parallax, Flexbox, Media queries, 
+                responsividade, menu fixo, menu interativo para dispositivos 
+                móveis, SEO, acessibilidade e arquitetura BEM. 
+                Permite que os usuários explorem os produtos de forma 
+                eficiente e intuitiva."
                 
                 className="cardProject"
                 espaco="espaco"
@@ -164,7 +188,11 @@ function Front() {
                 src={spacezone}
                 descricao=" 
                 Descrição: 
-                Utilizado: Flexbox, Animation, Efeitos em imagens através de pseudo-elements, Select personalizado Dark theme, Responsividade, Boa performance, Acessibilidade, SEO, Funções pequenas de JS, e Arquitetura BEM. "
+                Desenvolvimento de um site de busca de imagens, com uso de 
+                Flexbox, animações, efeitos em imagens através de pseudo-elements,
+                select personalizado com dark theme, responsividade, boa 
+                performance, acessibilidade, SEO, funções pequenas de JavaScript 
+                e arquitetura BEM. "
 
                 className="cardProject"
                 espaco="espaco"
