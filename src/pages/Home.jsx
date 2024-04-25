@@ -58,7 +58,7 @@ function Home() {
                     </p>
                     <div className="containerPart3">
                         <p className="text"></p>
-                        <p className="text color2">FRONT-END</p>
+                        <p className="text2 color2">FRONT-END</p>
                         <div className="containerCardTecnologia">
                             <CardTecnologia className="cardTecno" text="REACT" color={'#170d29'} img={tecno1}/>
                             <CardTecnologia className="cardTecno" text="VITE" color={'#170d29'} img={tecno22}/>
@@ -75,7 +75,7 @@ function Home() {
                             <CardTecnologia className="cardTecno" text="API REST" color={'#170d29'} img={tecno26}/>
                             <CardTecnologia className="cardTecno2" text="STYLED COMPONENTS" color={'#170d29'} img={tecno6}/>
                         </div>
-                        <p className="text color2">BACK-END</p>
+                        <p className="text2 color2">BACK-END</p>
                         <div className="containerCardTecnologia">
                             <CardTecnologia className="cardTecno" text="NODEJS" color={'#170d29'} img={tecno11}/>
                             <CardTecnologia className="cardTecno" text="PHP" color={'#170d29'} img={tecno12}/>
@@ -87,7 +87,7 @@ function Home() {
                             <CardTecnologia className="cardTecno" text="SPRINGBOOT" color={'#170d29'} img={tecno18}/>
                             <CardTecnologia className="cardTecno" text="COMPOSER" color={'#170d29'} img={tecno24}/>
                         </div>
-                        <p className="text color2">OUTROS</p>
+                        <p className="text2 color2">OUTROS</p>
                         <div className="containerCardTecnologia">
                             <CardTecnologia className="cardTecno" text="GIT" color={'#170d29'} img={tecno19}/>
                             <CardTecnologia className="cardTecno" text="PHOTOSHOP" color={'#170d29'} img={tecno20}/>
