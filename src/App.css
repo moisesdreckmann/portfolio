@@ -229,6 +229,10 @@ nav a:hover {
   cursor: pointer;
 }
 
+.fa-facebook:hover, .fa-linkedin:hover, .fa-whatsapp:hover {
+  transform: scale(1.2);
+}
+
 .textFooter {
   font-size: 1em;
   text-align: justify;
