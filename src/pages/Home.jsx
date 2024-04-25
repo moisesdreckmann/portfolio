@@ -51,9 +51,9 @@ function Home() {
                 </div>
                 <div className="containerPart2">
                     <p className="text">
-                        Olá. Me chamo Moisés Dreckmann. 
+                        Olá. Me chamo <strong>Moisés Dreckmann</strong>. 
                     </p>
-                    <p className="text">
+                    <p className="text2">
                         No front-end, destaco minha extensa experiência com React, JavaScript, Typescript, e dominio do CSS. Fui capaz de aprimorar minhas habilidades na criação de interfaces interativas e responsivas. Trabalhei em projetos desafiadores, aplicando boas práticas de desenvolvimento e mantendo-me atualizado com as últimas tendências no ecossistema. Possuo profunda expertise no backend utilizando PHP, Mysql e Postgresql. Meu primeiro contato com Hello World foi através de C++. Desde então, tenho ampliado meu conhecimento em diversas tecnologias. 
                     </p>
                     <div className="containerPart3">
@@ -67,13 +67,13 @@ function Home() {
                             <CardTecnologia className="cardTecno" text="NPM" color={'#170d29'} img={tecno23}/>
                             <CardTecnologia className="cardTecno" text="BOOTSTRAP" color={'#170d29'} img={tecno4}/>
                             <CardTecnologia className="cardTecno" text="CSS 3" color={'#170d29'} img={tecno5}/>
-                            <CardTecnologia className="cardTecno2" text="STYLED COMPONENTS" color={'#170d29'} img={tecno6}/>
                             <CardTecnologia className="cardTecno" text="TAILWIND" color={'#170d29'} img={tecno7}/>
                             <CardTecnologia className="cardTecno" text="HTML 5" color={'#170d29'} img={tecno8}/>
                             <CardTecnologia className="cardTecno" text="AXIOS" color={'#170d29'} img={tecno9}/>
                             <CardTecnologia className="cardTecno" text="JWT" color={'#170d29'} img={tecno10}/>
                             <CardTecnologia className="cardTecno" text="NEXT" color={'#170d29'} img={tecno25}/>
                             <CardTecnologia className="cardTecno" text="API REST" color={'#170d29'} img={tecno26}/>
+                            <CardTecnologia className="cardTecno2" text="STYLED COMPONENTS" color={'#170d29'} img={tecno6}/>
                         </div>
                         <p className="text color2">BACK-END</p>
                         <div className="containerCardTecnologia">

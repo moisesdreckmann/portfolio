@@ -140,6 +140,12 @@ nav a:hover {
 }
 
 .text {
+  font-size: 1.3em;
+  text-align: justify;
+  line-height: 1.6em;
+}
+
+.text2 {
   font-size: 1em;
   text-align: justify;
   line-height: 1.6em;
