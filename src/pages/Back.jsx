@@ -10,7 +10,7 @@ import reactnative011 from '../assets/imagesPage/reactNative01.png'
 import reactnative022 from '../assets/imagesPage/reactNative02.png'
 import reactnative033 from './../assets/imagesPage/reactNative03.png'
 import reactnative044 from './../assets/imagesPage/reactNative04.png'
-
+import nextProjeto from './../assets/imagesPage/nextProjeto.png'
 
 import videoJava2 from './../assets/imagesPage/videoJava2.mp4'
 import cpp from './../assets/imagesPage/c.mp4'
@@ -20,12 +20,37 @@ import reactnative01 from './../assets/imagesPage/reactNative01.mp4'
 import reactnative02 from './../assets/imagesPage/reactNative02.mp4'
 import reactnative03 from './../assets/imagesPage/reactNative03.mp4'
 import reactnative04 from './../assets/imagesPage/reactNative04.mp4'
+import nextVideo from './../assets/imagesPage/nextVideo.mp4'
 
 function Back() {
     return(
         <>
             <main className="containerFrontBack">
                 <Navbar className="nav" />
+
+                <Card1
+                src={nextProjeto}
+                descricao="
+                Descrição: 
+                Um projeto front-end desenvolvido em Next.js para uma empresa, 
+                incorporando diversas tecnologias e práticas avançadas. Com SEO Otimizado
+                para melhorar nas paginas de buscas, uma renderização hibrida, com Server-Side Rendering,
+                useStates para realização de modais entre outros, e uma estilização moderna com CSS externo para
+                os componentes."
+                
+                className="cardProject"
+                espaco="espaco"
+                descricaoClassName="descricaoClassName"
+                divBtn="divBtn"
+                btnEstilizacao="btnEstilizacao"
+                tamanhoImg="tamanhoImg"
+                linkProjeto="#"
+                linkPage="#"
+                videos={nextVideo}
+                tecnologias= "NEXTJS"
+                tecnoParagrafo="tecnoParagrafo"
+                >
+                </Card1>
 
                 <Card1
                 src={reactnative033}
