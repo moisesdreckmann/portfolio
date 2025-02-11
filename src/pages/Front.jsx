@@ -44,30 +44,6 @@ function Front() {
                 </Card>
 
                 <Card
-                src={temperaturas}
-                descricao="
-                Descrição: 
-                Desenvolvimento de uma página React para o projeto Sensor de Temperatura da 
-                Faculdade IFSUL, explorando a criação de várias rotas, 
-                useState, login, ContextAPI para estado global, 
-                busca de usuários, React Hook Form, Yup, 
-                useEffect, 
-                uso de axios para realizar solicitações HTTP à API, e a  
-                criação de componentes reutilizáveis para manter um código limpo e modular"
-                className="cardProject"
-                espaco="espaco"
-                descricaoClassName="descricaoClassName"
-                divBtn="divBtn"
-                btnEstilizacao="btnEstilizacao"
-                tamanhoImg="tamanhoImg"
-                
-                linkPage="#"
-                tecnologias= "REACT - REACT-HOOK-FORM - YUP - CONTEXTAPI - VITE - JAVASCRIPT"
-                tecnoParagrafo="tecnoParagrafo"
-                >
-                </Card>
-
-                <Card
                 src={jogo}
                 descricao="
                 Descrição: 
