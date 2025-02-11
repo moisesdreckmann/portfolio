@@ -60,7 +60,7 @@ function Front() {
                 divBtn="divBtn"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
-                linkProjeto="#"
+                
                 linkPage="#"
                 tecnologias= "REACT - REACT-HOOK-FORM - YUP - CONTEXTAPI - VITE - JAVASCRIPT"
                 tecnoParagrafo="tecnoParagrafo"
