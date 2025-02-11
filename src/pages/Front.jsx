@@ -60,8 +60,8 @@ function Front() {
                 divBtn="divBtn"
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
-                linkProjeto="https://github.com/moisesdreckmann/projetoIfsulTemperatura"
-                linkPage="https://moisesdreckmann.github.io/projetoIfsulTemperatura/"
+                linkProjeto="#"
+                linkPage="#"
                 tecnologias= "REACT - REACT-HOOK-FORM - YUP - CONTEXTAPI - VITE - JAVASCRIPT"
                 tecnoParagrafo="tecnoParagrafo"
                 >
